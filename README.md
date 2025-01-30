@@ -4,7 +4,11 @@ Python Script for converting Little Endian to Big Endian
 
 # How to use?
 unhex the extracted memory from cyberchef then use this tool to convert it to big endian
+python3 little2big_endian.py
 
+$ ./little2big_endian.py      
+Enter your String - hello
+olleh
 
 
 
